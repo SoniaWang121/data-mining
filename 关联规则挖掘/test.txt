@@ -1,0 +1,5 @@
+0.2 0.3
+A B C
+D E A F
+C F B
+--END--
